@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasstewart&label=Profile%20views&color=0e75b6&style=flat" alt="matiasstewart" /> </p>
 
-- 🌱 I’m currently learning **Certified Tech Developer dictated by Digital house**
+- 🌱 I’m currently learning **Certified Tech Developer dictated by Digital House** and **University Technician in Programming/Computer Systems**
 
 - 📫 How to reach me **stewartmatias@gmail.com**
 
